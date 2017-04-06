@@ -10,5 +10,28 @@
 img {
 	width: 50px;
 	height: 50px;
-	margin-left: 25%;
+	background-color: white;
+	margin: 20px;
+}
+
+#image {
+	text-align: center;
+}
+
+#image>p {
+	border-style: dotted;
+}
+
+body {
+	background-color: cyan;
+}
+
+#ghost {
+	float: right;
+	width: 250px;
+	height: 250px;
+	border: 15px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 25px;
 }
