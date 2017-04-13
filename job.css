@@ -1,0 +1,63 @@
+body {
+	background-color: rebeccapurple;
+}
+
+#button {
+	position: fixed;
+	right: 2%;
+	bottom: 2%;
+}
+
+#button > input {
+	background-color: #FFD700;
+	height: 50px;
+	width: 100px;
+}
+
+.field {
+	margin-bottom: 10px;
+}
+
+fieldset {
+	margin-bottom: 10px;
+	background-color: white;
+	border: 2px none;
+    border-radius: 15px;
+}
+
+h2 {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 42px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+
+}
+
+label {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+legend {
+	font-size: 36px;
+	color: #AAAA00;
+	margin-bottom: -25px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 30px;
+}
+
+li {
+	list-style-type: none;
+}
+
+#desc {
+	width: 75%;
+	height: 75px;
+	float: left;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	padding-top: 10px;
+}
+
