@@ -1,0 +1,44 @@
+#header h1 {
+	color: #BF500F;
+	background-color: #111111;
+}
+
+a {
+	color: #73E0FF;
+}
+
+h1 a:hover {
+	color: #FF6B14;
+}
+
+h3 {
+	color: #C1E8B9;
+	background-color: #111111;
+}
+
+strong {
+	color: #FF6B14;
+}
+
+body {
+	background-image: url("http://orig13.deviantart.net/e5ee/f/2012/320/b/4/hongkong_by_wlop-d5bs141.jpg");
+}
+
+p {
+	background-color: #111111;
+}
+
+#wrapper {
+	padding: 0px;
+}
+
+.thumbnails a h3 {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+img {
+	background-color: black;
+	padding: 5px;
+}
